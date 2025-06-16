@@ -84,4 +84,4 @@ Campanhas para migração de contratos mensais para planos de maior duração (a
 
 Cross-sell de serviços com baixa adesão (segurança, backup, suporte técnico).
 
-Monitorar mais de perto os clientes de Fiber Optic com alto valor de mensalidade..
+Monitorar mais de perto os clientes de Fiber Optic com alto valor de mensalidade.
